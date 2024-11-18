@@ -7,3 +7,5 @@ Para a primeira parte utilizei o MySQL Workbench para o desenvolvimento dos scri
 </p>
             
 A segunda parte foi desenvolvida em Python, na ferramenta VSCODE, com uso das bibliotecas pandas, requests e math para conclusão do desafio.
+
+Todos os arquivos possuem comentários explicando a linha de pensamento e a lógica utilizada para resolução dos items.
